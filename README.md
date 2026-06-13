@@ -12,6 +12,22 @@ Whether you're taking your first steps into programming or revisiting the fundam
 
 ---
 
+## Who Is This For?
+
+This course is for:
+
+- Complete beginners
+- School students
+- Curious self-learners
+- People who want to understand Python deeply
+
+This course is NOT for:
+
+- People looking for a quick syntax cheat sheet
+- Experienced Python developers
+  
+---
+
 ## Why This Repository Exists
 
 Programming is often taught as a collection of commands to memorize:
@@ -65,7 +81,7 @@ Topics:
 * Primitive Data Types
 * Basic Input and Output
 
-**Checkpoint Project:** Income Calculator
+**Checkpoint Project:** Interplanetary Mission Planner
 
 ---
 
@@ -256,6 +272,15 @@ Debugging.
 Learning why debugging was necessary.
 
 ---
+## Course Progress
+
+- [X] Module 1: The Launchpad
+- [ ] Module 2: Control Flow
+- [ ] Module 3: Data Structures
+- [ ] Module 4: Functions
+- [ ] Module 5: Files & Error Handling
+- [ ] Module 6: OOP
+- [ ] Module 7: Modules & Packages
 
 ## About
 
